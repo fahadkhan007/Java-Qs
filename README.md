@@ -16,5 +16,3 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"><br>GitHub</td>
   </tr>
 </table>
-
-
